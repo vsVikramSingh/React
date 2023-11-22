@@ -10,6 +10,7 @@
         project name
         library react
         javascript
+    npm install
 
 
 - install tailwind
