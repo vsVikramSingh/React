@@ -1,4 +1,4 @@
----- Here some instalation instruction
+---- Here some instalation instruction ----
 
 
 - create react project
